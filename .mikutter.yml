@@ -1,0 +1,9 @@
+---
+slug: :ask_author_of_mikutter
+depends:
+  mikutter: 5.1.0
+  plugin: []
+version: '1.0'
+author: shibafu528
+name: mikutterの作者は誰？
+description: toshi_aだろ
